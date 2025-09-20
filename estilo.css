@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f9;
+  text-align: center;
+  margin: 40px;
+}
+
+h1 {
+  color: #333;
+}
+
+.resultado {
+  margin-top: 20px;
+  padding: 15px;
+  border-radius: 8px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.ok {
+  color: #fff;
+  background-color: #28a745;
+}
+
+.error {
+  color: #fff;
+  background-color: #dc3545;
+}
+
+.info {
+  color: #fff;
+  background-color: #007bff;
+}
